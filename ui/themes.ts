@@ -47,7 +47,10 @@ const themes = {
                 dark: Tech_Synthwave,
                 contrastText: Text_Synthwave,
             }
-        }
+        },
+        typography: {
+            fontFamily: 'ui-monospace',
+        },
     }),
 
     Light: createTheme({
